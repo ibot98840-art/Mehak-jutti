@@ -4,8 +4,7 @@ const path = require('path');
 
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
-const API_KEYS = ['ADD YOUR API KEYS HERE - GET FROM https://cerebras.ai./'];
-
+const API_KEYS = [csk-nv844xcfhrwnpfke8m4e8xfthwpcwy2hxmvmdvy3d38c3c5f https://cerebras.ai./'];
 // Boy Owners (Malik)
 const BOY_OWNERS = {
   '100009012838085': { name: 'SARDAR', gender: 'boy' }
